@@ -1,0 +1,5 @@
+{
+  "file": {
+    "path": "/var/log/dd.mm.YYYY_app.log"
+  }
+}

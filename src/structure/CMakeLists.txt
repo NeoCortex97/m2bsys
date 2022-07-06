@@ -1,0 +1,1 @@
+add_library(structure structure.cpp)

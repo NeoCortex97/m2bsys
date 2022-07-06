@@ -1,0 +1,6 @@
+[submodule "external/Lyra"]
+	path = external/Lyra
+	url = git@github.com:bfgroup/Lyra.git
+[submodule "external/json"]
+	path = external/json
+	url = git@github.com:nlohmann/json.git
